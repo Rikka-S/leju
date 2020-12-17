@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "产品详细",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "jyf-parser": "/components/jyf-parser/jyf-parser",
+    "lc-number-box": "/components/lc-number-box/lc-numberBox"
+  }
+}
